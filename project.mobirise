@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "portfolio",
+    "name": "portfoliomaart",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -9,15 +9,15 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#f7da64",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -49,11 +49,11 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColorRadio": true,
+            "bgColor": "#2b0680",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -64,7 +64,7 @@
           },
           "title": "Arin Rasschaert",
           "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">catalogi</a>    ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    ",
           "_tags": [
             "Theme"
           ],
@@ -84,6 +84,129 @@
               "font-family": "'PT Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "color": "#f7da64"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Thematiek",
+          "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-a",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "22px",
+              "color": "#2b0680"
+            },
+            ".mbr-section-title": {
+              "color": "#2b0680"
+            }
+          }
+        },
+        {
+          "_inherit": "testimonials2",
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/womenpartfinal-2000x1329.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Invloeden",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Bv; Michelangelo,Raphael Coxi,El Greco,Tintoretto,Pontormo,Hans Von Aachen,Otto Van Veen,...",
+              "authorBio": "User",
+              "text": "<p>Het streven naar manierisme op een abstracte modernistische manier zorgt voor een veelheid, drukte en bepaalde gewrongenheid in de werken. Het zijn telkens verhalen of uitbeeldingen van emoties. Daardoor wordt er geen rekening gehouden met perspectief, hiërarchie of realisme in kleuren. Het verhaal is primair.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Corneille,Lucebert,Jan Cox,Contant Nieuwenhuys,...",
+              "authorBio": "User",
+              "text": "Ook de Cobra beweging bracht veel invloed mee omdat zij ook naiëve, kindertekeningen maakten met een gruwelijk kantje.",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Monet,Manet,Renoir,Van Gogh,Matisse,Degas,Cézanne,Camille Pissarro/Kirchner,Edward Munch,Lucian Freud,Modigliani,Franz Marc,Egon Schiele,...<br><br>",
+              "authorBio": "User",
+              "text": "<p>Met het impressionisme en het expressionisme kan men dan weer de realiteit overstijgen en de zintuigelijke of/en gevoelswereld binnen treden. Dat is belangrijk om bij een verhaal het gevoel en de ervaring over te brengen.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-g",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left",
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".card-block": {
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -128,14 +251,14 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schilderijnatuur-960x683.jpg",
+                "image": "@PROJECT_PATH@/assets/images/onlyhumansfinal-2000x1091.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "In de natuur",
+                "title": "Human world",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -159,7 +282,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/people-960x560.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -203,7 +326,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schaapjesn-1999x1608.jpg",
+                "image": "@PROJECT_PATH@/assets/images/steffiefinal-2000x707.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -213,8 +336,38 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Weide.",
+                "text": "Destruction<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/kirafinal-2000x1434.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "alone in nature<br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/womenfinal-1347x1785.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Women<br><br>",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
               }
             ]
@@ -232,44 +385,6 @@
             },
             "P": {
               "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Thematiek",
-          "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnpireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-a",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "22px",
-              "color": "#2b0680"
-            },
-            ".mbr-section-title": {
-              "color": "#2b0680"
             }
           }
         },
@@ -337,7 +452,7 @@
               "color": "#ffffff"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer me</a>",
           "title1": "",
           "text1": "Hier vind je meer contactinformatie voor verdere vragen of voor meer schilderijen bekijk instagram.",
           "text2": "mailen; arinrasschaert@hotmail.com",
