@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -221,7 +221,7 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/schilderijkira-592x924.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schilderijkira-2000x1509.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -236,14 +236,14 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schilderijcirkus-960x887.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schilderijcirkusb-2000x1288.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Het circus",
+                "title": "",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -251,7 +251,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/onlyhumansfinal-2000x1091.jpg",
+                "image": "@PROJECT_PATH@/assets/images/onlyhumansfinal-2000x1061.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -266,7 +266,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schilderijvrouw-2000x1087.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -281,7 +281,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/people-960x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/people-2000x1067.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -296,7 +296,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/laatsteoordeel-2000x1311.jpg",
+                "image": "@PROJECT_PATH@/assets/images/last-judgmentfinal-2000x1247.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -311,7 +311,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/koetjes-1668x1175.jpg",
+                "image": "@PROJECT_PATH@/assets/images/koetjes-2000x1196.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -326,7 +326,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/steffiefinal-2000x707.jpg",
+                "image": "@PROJECT_PATH@/assets/images/steffiefinal-2000x836.png",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -341,29 +341,59 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/kirafinal-2000x1434.jpg",
+                "image": "@PROJECT_PATH@/assets/images/womenfinal-2000x1430.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "alone in nature<br><br>",
+                "title": "Women<br><br>",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/womenfinal-1347x1785.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kirafinalzonderrand-2000x1252.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br>",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/schaapjesb-2000x1314.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br>",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nalieenkoe-2000x1255.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Women<br><br>",
+                "title": "<br><br>",
                 "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -501,6 +531,51 @@
               "color": "#f7da64"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2b0680",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Arin Rasschaert",
+          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "text-align": "center",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "font-size": "46px"
+            },
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "header1-h"
         }
       ]
     }
