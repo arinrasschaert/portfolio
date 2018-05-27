@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "portfoliomaart",
+    "name": "portfoliomaart-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -26,10 +26,11 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 18,
-    "versionPublish": "4.4.1",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -43,33 +44,10 @@
       },
       "components": [
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b0680",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Arin Rasschaert",
-          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    ",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
               "color": "#f7da64",
@@ -85,36 +63,36 @@
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "color": "#f7da64"
             }
-          }
-        },
-        {
+          },
+          "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
+            "bgColor": "#2b0680",
             "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "title": "Thematiek",
-          "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "title": "Arin Rasschaert",
+          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact</a>    "
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-a",
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "22px",
@@ -123,37 +101,60 @@
             ".mbr-section-title": {
               "color": "#2b0680"
             }
-          }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#f7da64",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Thematiek",
+          "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "testimonials2",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/womenpartfinal-2000x1329.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.2
-          },
           "_tags": [
             "Theme"
           ],
-          "title": "Invloeden",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_name": "testimonials4",
+          "_styles": {
+            ".card-block P": {
+              "text-align": "left",
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#2b0680"
+            },
+            ".card-block": {
+              "font-size": "21px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#2b0680"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64"
+            },
+            ".card-footer > div": {
+              "color": "#f7da64"
+            }
+          },
           "testimonial": [
             {
-              "authorName": "Bv; Michelangelo,Raphael Coxi,El Greco,Tintoretto,Pontormo,Hans Von Aachen,Otto Van Veen,...",
-              "authorBio": "User",
               "text": "<p>Het streven naar manierisme op een abstracte modernistische manier zorgt voor een veelheid, drukte en bepaalde gewrongenheid in de werken. Het zijn telkens verhalen of uitbeeldingen van emoties. Daardoor wordt er geen rekening gehouden met perspectief, hiërarchie of realisme in kleuren. Het verhaal is primair.</p>",
               "media": {
                 "image": {
@@ -163,11 +164,11 @@
                   "width": 160,
                   "active": true
                 }
-              }
+              },
+              "authorName": "Bv; Michelangelo, Raphael Coxi, El Greco,Tintoretto, Pontormo, Hans Von Aachen, Otto Van Veen ...",
+              "authorBio": "User"
             },
             {
-              "authorName": "Corneille,Lucebert,Jan Cox,Contant Nieuwenhuys,...",
-              "authorBio": "User",
               "text": "Ook de Cobra beweging bracht veel invloed mee omdat zij ook naiëve, kindertekeningen maakten met een gruwelijk kantje.",
               "media": {
                 "image": {
@@ -177,11 +178,11 @@
                   "width": 160,
                   "active": true
                 }
-              }
+              },
+              "authorName": "Bv; Corneille, Lucebert, Jan Cox, Contant Nieuwenhuys ...",
+              "authorBio": "User"
             },
             {
-              "authorName": "Monet,Manet,Renoir,Van Gogh,Matisse,Degas,Cézanne,Camille Pissarro/Kirchner,Edward Munch,Lucian Freud,Modigliani,Franz Marc,Egon Schiele,...<br><br>",
-              "authorBio": "User",
               "text": "<p>Met het impressionisme en het expressionisme kan men dan weer de realiteit overstijgen en de zintuigelijke of/en gevoelswereld binnen treden. Dat is belangrijk om bij een verhaal het gevoel en de ervaring over te brengen.</p>",
               "media": {
                 "image": {
@@ -191,245 +192,270 @@
                   "width": 160,
                   "active": true
                 }
-              }
+              },
+              "authorName": "Bv; Monet, Manet, Renoir, Van Gogh, Matisse, Degas,Cézanne, Camille Pissarro/Kirchner,Edward Munch, Lucian Freud, Modigliani, Franz Marc, Egon Schiele ...<br><br>",
+              "authorBio": "User"
             }
           ],
-          "_name": "testimonials4",
           "_anchor": "testimonials4-g",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left",
-              "font-size": "21px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".card-block": {
-              "font-size": "21px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/womenpartfinal-2000x1329.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "Invloeden",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
-          "_params": {
-            "autoplay": false,
-            "fullScreen": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "showBullets": false,
-            "bgColor": "#f7da64",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/schilderijkira-2000x1509.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Kira",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/schilderijcirkusb-2000x1288.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/onlyhumansfinal-2000x1061.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Human world",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/schilderijvrouw-2000x1087.png",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "BOOTSTRAP SLIDER",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Vrouw<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/people-2000x1067.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "De Grot",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/last-judgmentfinal-2000x1247.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Het Laatste Oordeel",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/koetjes-2000x1196.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Bloedkoeien",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/steffiefinal-2000x836.png",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Destruction<br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/womenfinal-2000x1430.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Women<br><br>",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/kirafinalzonderrand-2000x1252.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br>",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/schaapjesb-2000x1314.png",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br>",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/nalieenkoe-2000x1255.png",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br>",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0"
-              }
-            ]
-          },
-          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
           "_name": "slider3",
-          "_anchor": "slider3-6",
           "_styles": {
             "H2": {
-              "text-align": "left",
-              "font-size": "24px"
+              "text-align": "right",
+              "font-size": "18px",
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "right",
+              "font-size": "16px",
+              "color": "#2b0680"
+            },
+            "B": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#ffffff",
+              "text-align": "left"
             }
-          }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/lekkerekut-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vrouw naar waarneming, repetieve samenstelling 2018<br>olieverf op doek",
+                "showText": true,
+                "text": "<div><br></div><div>Waarneming</div><div>Model &nbsp;repetitie</div><div>Olieverf op doek</div><div>29 cm op 39 cm&nbsp;</div><br><div><br></div><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></div><div>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp;</span></div>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/houtskool-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "",
+                "showText": true,
+                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>het laatste oordeel, houtskool op papier 2017<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;naar werk van raphael coxi 90 op 40 cm &nbsp;</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/kira-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\">Verderdwijnen in de natuur</span><br>Olieverf op bedrukte poster<br>197 op 138 cm</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/vrouw-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": true,
+                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>olieverf op doek 2018 waarneming vrouw naar model<br>53 op 62 cm</b><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/alle-juiste-afbeeldingformaten-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Bloedkoeien, 2016<br>Waarneming naar koeien in de weide.<br>Rood door de dubbele bodem. De koeien zijn blij maar rauwen om het lot van hun soortgenoten in de vlees en zuivelindustrie",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>bloedkoeien 2016, Waarneming naar koeien. Rood door dubbele bodem. Deze koeien zijn blij maar ze rauwen om het lot van hun soortgenoten in de vlees en zuivel industrie A3 formaat",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/schaapjes-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">Schapen,waarneming naar shap schapen 2017 Aquarel op papier A3 formaat 2016</span><br>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/koetje-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "",
+                "showText": true,
+                "text": "<b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\">koe en hond 2017 olieverf op doek</span><br></b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>30 op 20 cm</b><br></span><br><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/steffie-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vernieling, dieren ontrekken uit de natuur,nalatigheid,mishandelin,beroving van de vrijheid<br>olieverf op papier<br><br>",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Vernieling, dieren worden berooft van hun vrijheid en dat wordt hun ondergang. Olieverf op papier 350 op 128,5 cm 2017</b>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/circus-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; Cirkus olieverf op doek. <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Omkering, mens word &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bespeeld en dieren kijken toe<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ,&nbsp;olieverf op doek 2017",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>Het circus<br>olieverf op doek 2017<br>109 op 104 cm<br><br><br><br><br><br><br><br><br><br><br><br>Her circus. De dieren kijken vol vreugde toe hoe demensen mishandelt worden.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/grot-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "De grot &nbsp;2017Olieverf op doek 82 op 46 cm<br><br>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/only-humans-2000x1200.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Wereld zonder dieren. Mensen maken enkel elkaar kapot. Op de manieren hoe ze dat met dieren doen olieverf op doek",
+                "showText": true,
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style=\"font-size: 1.5rem; line-height: 1.5; font-style: normal;\"><b>Wereld zonder dieren. Mensen maken enkel elkaar kapot. Op de manieren hoe ze dat met dieren doen olieverf op doek 2017 227 op 124 cm</b></span><br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#f7da64",
+            "showBullets": false
+          },
+          "_anchor": "slider3-6",
+          "articleLayout": false
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            ".list-group-text": {
+              "color": "#f7da64"
+            },
+            "P": {
+              "color": "#f7da64"
+            }
+          },
+          "_anchor": "contacts3-e",
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2b0680",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
           },
           "logo": {
             "image": {
@@ -451,6 +477,7 @@
               "color": "#f7da64"
             }
           },
+          "text1": "Hier vind je meer contactinformatie voor verdere vragen of voor meer schilderijen bekijk instagram.",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -461,6 +488,7 @@
               "size": 0
             }
           },
+          "text2": "<p>mailen; <a href=\"mailto:arinrasschaert@hotmail.com\">arinrasschaert@hotmail.com</a></p>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -471,6 +499,7 @@
               "size": 0
             }
           },
+          "text3": "<p><a href=\"https://www.instagram.com/pindaprut/\" target=\"_blank\">instagram: pindaprut</a></p>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -482,12 +511,8 @@
               "color": "#ffffff"
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer me</a>",
-          "title1": "",
-          "text1": "Hier vind je meer contactinformatie voor verdere vragen of voor meer schilderijen bekijk instagram.",
-          "text2": "mailen; arinrasschaert@hotmail.com",
-          "text3": "instagram: pindaprut",
           "text4": "",
+          "title1": "",
           "text5": "",
           "text6": "<br><br><br>",
           "form": {
@@ -498,18 +523,18 @@
             },
             "fields": {
               "name": {
-                "visible": false,
                 "title": "Name",
+                "visible": false,
                 "customTitle": "Name*"
               },
               "email": {
-                "visible": true,
                 "title": "Email",
+                "visible": true,
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
                 "title": "Phone",
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
@@ -518,43 +543,9 @@
               }
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-e",
-          "_styles": {
-            ".list-group-text": {
-              "color": "#f7da64"
-            },
-            "P": {
-              "color": "#f7da64"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer me</a>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b0680",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Arin Rasschaert",
-          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    ",
           "_tags": [
             "Theme"
           ],
@@ -575,7 +566,29 @@
               "color": "#f7da64"
             }
           },
-          "_anchor": "header1-h"
+          "_anchor": "header1-h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
+            "bgColor": "#2b0680",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Arin Rasschaert",
+          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    "
         }
       ]
     }

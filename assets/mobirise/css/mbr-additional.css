@@ -1,9 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -446,17 +450,42 @@ h6,
   text-align: left;
   font-size: 21px;
   font-family: 'Oswald', sans-serif;
+  color: #2b0680;
 }
 #testimonials4-g .card-block {
   font-size: 21px;
   font-family: 'Oswald', sans-serif;
+  color: #2b0680;
+}
+#testimonials4-g .mbr-section-title {
+  color: #f7da64;
+}
+#testimonials4-g .card-footer > div {
+  color: #f7da64;
 }
 #slider3-6 H2 {
-  text-align: left;
-  font-size: 24px;
+  text-align: right;
+  font-size: 18px;
+  font-family: 'Droid Serif', serif;
+  color: #ffffff;
 }
 #slider3-6 P {
-  color: #000000;
+  color: #ffffff;
+  text-align: left;
+}
+#slider3-6 DIV {
+  text-align: right;
+  font-size: 16px;
+  color: #2b0680;
+}
+#slider3-6 B {
+  text-align: left;
+  color: #ffffff;
+}
+#slider3-6 SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ffffff;
+  text-align: left;
 }
 #contacts3-e .list-group-text {
   color: #f7da64;
