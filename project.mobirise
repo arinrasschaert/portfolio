@@ -13,7 +13,7 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
+        "subtitleFont": "Roboto",
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
@@ -86,7 +86,7 @@
           },
           "title": "Arin Rasschaert",
           "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact</a>    "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact</a>    "
         },
         {
           "_tags": [
@@ -227,9 +227,9 @@
           "_styles": {
             "H2": {
               "text-align": "right",
-              "font-size": "18px",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "24px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#ffffff"
             },
             "P": {
@@ -239,17 +239,22 @@
             "DIV": {
               "text-align": "right",
               "font-size": "16px",
-              "color": "#2b0680"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "B": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "SPAN": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "24px"
             }
           },
           "_params": {
@@ -269,7 +274,7 @@
                 "showTitle": false,
                 "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vrouw naar waarneming, repetieve samenstelling 2018<br>olieverf op doek",
                 "showText": true,
-                "text": "<div><br></div><div>Waarneming</div><div>Model &nbsp;repetitie</div><div>Olieverf op doek</div><div>29 cm op 39 cm&nbsp;</div><br><div><br></div><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></div><div>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp;</span></div>",
+                "text": "<div><br></div><div>&nbsp; </div><b><br></b><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp; &nbsp;</b><b style=\"line-height: 1.5;\">Waarneming</b></div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"font-size: 16px; text-align: right; line-height: 1.5;\">&nbsp; &nbsp;</span><b style=\"line-height: 1.5;\">Model &nbsp;repetitie &nbsp;&nbsp;</b><span style=\"font-size: 16px; text-align: right; line-height: 1.5;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 16px; text-align: right; line-height: 1.5;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 16px; text-align: right; line-height: 1.5;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 16px; text-align: right; line-height: 1.5;\">&nbsp; &nbsp; &nbsp;&nbsp;</span><b style=\"line-height: 1.5;\">Olieverf op doek</b></div><div><b>29 cm op 39 cm</b>&nbsp;</div><br><div><br></div><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></div><div>&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp; &nbsp; &nbsp; &nbsp;</span></div>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -284,7 +289,7 @@
                 "showTitle": false,
                 "title": "",
                 "showText": true,
-                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>het laatste oordeel, houtskool op papier 2017<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;naar werk van raphael coxi 90 op 40 cm &nbsp;</b>",
+                "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>het laatste oordeel, houtskool op papie2017<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;naar werk van raphael coxi 90 op 40 cm&nbsp;</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -314,7 +319,7 @@
                 "showTitle": false,
                 "title": "BOOTSTRAP SLIDER",
                 "showText": true,
-                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>olieverf op doek 2018 waarneming vrouw naar model<br>53 op 62 cm</b><br><br>",
+                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Olieverf op doek 2018 waarneming vrouw naar model<br>53 op 62 cm</b><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -329,7 +334,7 @@
                 "showTitle": false,
                 "title": "Bloedkoeien, 2016<br>Waarneming naar koeien in de weide.<br>Rood door de dubbele bodem. De koeien zijn blij maar rauwen om het lot van hun soortgenoten in de vlees en zuivelindustrie",
                 "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>bloedkoeien 2016, Waarneming naar koeien. Rood door dubbele bodem. Deze koeien zijn blij maar ze rauwen om het lot van hun soortgenoten in de vlees en zuivel industrie A3 formaat",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Bloedkoeien 2016, Waarneming naar koeien. Rood door dubbele bodem. Deze koeien zijn blij maar ze rauwen om het lot van hun soortgenoten in de vlees en zuivel industrie A3 formaat</b>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -342,7 +347,7 @@
                 "overlayOpacity": "0",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">Schapen,waarneming naar shap schapen 2017 Aquarel op papier A3 formaat 2016</span><br>",
+                "title": "<span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><font face=\"Droid Serif, serif\"><br></font></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\">Schapen,waarneming naar shap schapen 2017 Aquarel op papier A3 formaat 2016</span><br>",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -359,7 +364,7 @@
                 "showTitle": false,
                 "title": "",
                 "showText": true,
-                "text": "<b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\">koe en hond 2017 olieverf op doek</span><br></b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>30 op 20 cm</b><br></span><br><br>",
+                "text": "<b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\">Koe en hond 2017 olieverf op doek</span><br></b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>30 op 20 cm</b><br></span><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -389,7 +394,7 @@
                 "showTitle": false,
                 "title": "<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; Cirkus olieverf op doek. <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Omkering, mens word &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bespeeld en dieren kijken toe<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ,&nbsp;olieverf op doek 2017",
                 "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br>Het circus<br>olieverf op doek 2017<br>109 op 104 cm<br><br><br><br><br><br><br><br><br><br><br><br>Her circus. De dieren kijken vol vreugde toe hoe demensen mishandelt worden.",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><b>Het circus<br>olieverf op doek 2017<br>109 op 104 cm</b><br><br><br><br><br><br><br><br><br><br><br><br>Her circus. De dieren kijken vol vreugde toe hoe demensen mishandelt worden.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
