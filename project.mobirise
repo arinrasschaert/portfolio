@@ -26,7 +26,7 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 18,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.5.0",
     "favicon": "",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -66,23 +66,23 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "bgColor": "#2b0680",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2b0680",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "Arin Rasschaert",
           "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
@@ -104,23 +104,23 @@
           },
           "_anchor": "header1-a",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#f7da64",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "Thematiek",
           "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
@@ -199,22 +199,22 @@
           ],
           "_anchor": "testimonials4-g",
           "_params": {
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": true,
             "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/womenpartfinal-2000x1329.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": "0.6",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": "0.6"
           },
           "title": "Invloeden",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -259,8 +259,11 @@
           },
           "_params": {
             "autoplay": false,
+            "fullScreen": false,
             "paddingTop": "4",
             "paddingBottom": "4",
+            "showBullets": false,
+            "bgColor": "#f7da64",
             "timeout": 5,
             "slides": [
               {
@@ -428,10 +431,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#f7da64",
-            "showBullets": false
+            ]
           },
           "_anchor": "slider3-6",
           "articleLayout": false
@@ -454,13 +454,13 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b0680",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2b0680",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -573,23 +573,23 @@
           },
           "_anchor": "header1-h",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "bgColor": "#2b0680",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2b0680",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "title": "Arin Rasschaert",
           "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
