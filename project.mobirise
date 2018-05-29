@@ -275,7 +275,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "overlayOpacity": "0",
+                "overlayOpacity": "0.2",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vrouw naar waarneming, repetieve samenstelling 2018<br>olieverf op doek",
@@ -451,6 +451,9 @@
             },
             "P": {
               "color": "#f7da64"
+            },
+            ".list-group-text P": {
+              "color": "#c0a375"
             }
           },
           "_anchor": "contacts3-e",
@@ -486,7 +489,7 @@
               "color": "#f7da64"
             }
           },
-          "text1": "Hier vind je meer contactinformatie voor verdere vragen of voor meer schilderijen bekijk instagram.",
+          "text1": "Hier vind je meer contactinformatie, voor verdere vragen of voor meer schilderijen bekijk instagram.",
           "media1": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",
@@ -497,7 +500,7 @@
               "size": 0
             }
           },
-          "text2": "<p>mailen; <a href=\"mailto:arinrasschaert@hotmail.com\">arinrasschaert@hotmail.com</a></p>",
+          "text2": "<p>mailen:&nbsp;<a href=\"mailto:arinrasschaert@hotmail.com\">arinrasschaert@hotmail.com</a></p>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont-company-contacts3",

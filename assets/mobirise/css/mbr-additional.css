@@ -500,6 +500,9 @@ h6,
 #contacts3-e P {
   color: #f7da64;
 }
+#contacts3-e .list-group-text P {
+  color: #c0a375;
+}
 #header1-h .mbr-section-title {
   color: #f7da64;
   text-align: center;
