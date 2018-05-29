@@ -3,7 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -21,11 +20,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .btn,
 .alert,
@@ -475,9 +474,10 @@ h6,
 #slider3-6 P {
   color: #ffffff;
   text-align: left;
+  font-size: 18px;
 }
 #slider3-6 DIV {
-  text-align: right;
+  text-align: center;
   font-size: 16px;
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
@@ -486,12 +486,13 @@ h6,
   text-align: left;
   color: #ffffff;
   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
 }
 #slider3-6 SPAN {
   font-family: 'Roboto', sans-serif;
   color: #ffffff;
   text-align: left;
-  font-size: 24px;
+  font-size: 18px;
 }
 #contacts3-e .list-group-text {
   color: #f7da64;
