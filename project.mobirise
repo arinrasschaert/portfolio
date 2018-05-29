@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "portfoliomaart-clone-clone-clone",
+    "name": "VersieA",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#940f0e"
+        "#940f0e",
+        "#fffdfd"
       ]
     },
     "versionFirst": "4.4.1",
@@ -233,7 +234,7 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left",
               "font-size": "18px"
             },
@@ -254,7 +255,7 @@
             "SPAN": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#ffffff",
+              "color": "#fffdfd",
               "text-align": "left",
               "font-size": "18px"
             }
@@ -279,7 +280,7 @@
                 "showTitle": false,
                 "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vrouw naar waarneming, repetieve samenstelling 2018<br>olieverf op doek",
                 "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waarneming<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Modem repetitie \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Olieverf op doek\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 219 op 39 cm&nbsp;<br>",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp; Waarneming<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Model repetitie \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Olieverf op doek\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 219 op 39 cm&nbsp;</b><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -309,7 +310,7 @@
                 "showTitle": false,
                 "title": "",
                 "showText": true,
-                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><br><br><br><b><br></b></p><p><b>&nbsp; &nbsp; &nbsp;Verdwijnen in de natuur</b><br><b>&nbsp; &nbsp; &nbsp;Olieverf op bedrukte poster</b><b><br>&nbsp; &nbsp; &nbsp;197 op 138 cm</b></p>",
+                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><br><b><br></b></p><br><p><b>&nbsp; &nbsp; &nbsp; Verdwijnen in de natuur<br>&nbsp; &nbsp; &nbsp; Olieverf op bedrukte poster<br></b><b>&nbsp; &nbsp; &nbsp; 197 op 138 cm</b></p>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -369,7 +370,7 @@
                 "showTitle": false,
                 "title": "",
                 "showText": true,
-                "text": "&nbsp;)<br><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><b><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></b><br><span style=\"line-height: 1.5;\"><font color=\"#000000\"><b><br></b></font></span><br><span style=\"line-height: 1.5;\"><font color=\"#000000\"><b><br></b></font></span><br><span style=\"line-height: 1.5;\"><font color=\"#000000\"><b>Koe en hond</b></font></span><br><span style=\"line-height: 1.5;\"><font color=\"#000000\"><b>Olieverf op doek - 2017</b></font></span><br><span style=\"line-height: 1.5;\"><font color=\"#000000\"><b>30 op 20 cm<br></b></font><br></span><br><br>",
+                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Koe en hond<br>Olieverf op doek - 2017<br>30 op 20 cm</b><br><br>",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
