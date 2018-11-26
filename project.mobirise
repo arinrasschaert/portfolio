@@ -1,37 +1,47 @@
 {
   "settings": {
-    "name": "VersieA-clone",
+    "name": "My Site-clone-clone",
     "currentPage": "index.html",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
+      "name": "mobirise4",
+      "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#f7da64",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Roboto",
-        "textFont": "Roboto",
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "Rubik",
+        "display7Size": 1,
+        "display4Font": "Rubik",
+        "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#940f0e",
-        "#fffdfd"
+        "#7671fe"
       ]
     },
-    "versionFirst": "4.4.1",
-    "uniqCompNum": 18,
-    "versionPublish": "4.5.0",
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 17,
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": "https://analytics.google.com/analytics/web/#/report-home/a110309811w164697698p165362713"
   },
   "pages": {
     "index.html": {
@@ -45,562 +55,434 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#f7da64",
-              "text-align": "center",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "46px"
+            "background": "@bgColor",
+            "& when (@fullWidth = false)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
             },
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "20px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "color": "#f7da64"
+            "& when (@gradientBg)": {
+              "background": "linear-gradient(45deg, @bgColor, @color2)"
+            },
+            ".image-block": {
+              "margin": "auto",
+              "& when (@fullWidth)": {
+                "width": "100% !important"
+              }
+            },
+            ".mbr-figure": {
+              "margin": "0 auto"
+            },
+            "figcaption": {
+              "position": "relative",
+              "div": {
+                "position": "absolute",
+                "bottom": "0",
+                "width": "100%"
+              }
+            },
+            "@media (max-width: 768px)": {
+              ".image-block": {
+                "width": "100% !important"
+              }
             }
           },
-          "_anchor": "header1-1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b0680",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Arin Rasschaert",
-          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact</a>    "
+          "_name": "image2",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\" checked>\n\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Breedte\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"100\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Verloop\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Kleur 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n            <img src=\"@PROJECT_PATH@/assets/images/only-humans-2000x1200.png\" alt=\"Mobirise\" title>\n            <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\"></div>\n            </figcaption>\n        </div>\n    </figure>\n</section>",
+          "_cid": "r9nWMjHNT7",
+          "_anchor": "image2-8",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
           "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "22px",
-              "color": "#2b0680"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-slider .carousel-control": {
+              "background": "#1b1b1b"
             },
-            ".mbr-section-title": {
-              "color": "#2b0680"
-            }
-          },
-          "_anchor": "header1-a",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            ".mbr-slider .carousel-control-prev": {
+              "left": "0",
+              "margin-left": "2.5rem"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Thematiek",
-          "text": "De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.<br>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_inherit": "testimonials2",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials4",
-          "_styles": {
-            ".card-block P": {
-              "text-align": "left",
-              "font-size": "21px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#2b0680"
+            ".mbr-slider .carousel-control-next": {
+              "right": "0",
+              "margin-right": "2.5rem"
             },
-            ".card-block": {
-              "font-size": "21px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#2b0680"
+            ".mbr-slider .modal-body .close": {
+              "background": "#1b1b1b"
             },
-            ".mbr-section-title": {
-              "color": "#f7da64"
+            ".mbr-gallery-item > div::before": {
+              "content": "''",
+              "position": "absolute",
+              "left": "0",
+              "top": "0",
+              "width": "100%",
+              "height": "100%",
+              "background": "@overlayColor",
+              "opacity": "0",
+              "-webkit-transition": "0.2s opacity ease-in-out",
+              "transition": "0.2s opacity ease-in-out",
+              "& when (@gradOverlay)": {
+                "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
+              }
             },
-            ".card-footer > div": {
-              "color": "#f7da64"
-            }
-          },
-          "testimonial": [
-            {
-              "text": "<p>Het streven naar manierisme op een abstracte modernistische manier zorgt voor een veelheid, drukte en bepaalde gewrongenheid in de werken. Het zijn telkens verhalen of uitbeeldingen van emoties. Daardoor wordt er geen rekening gehouden met perspectief, hiërarchie of realisme in kleuren. Het verhaal is primair.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
+            ".mbr-gallery-item > div:hover": {
+              ".mbr-gallery-title::before": {
+                "background": "transparent !important"
+              },
+              "&:before": {
+                "opacity": "@overlayOpacity !important"
+              }
+            },
+            ".mbr-gallery-title": {
+              "font-size": ".9em",
+              "position": "absolute",
+              "display": "block",
+              "width": "100%",
+              "bottom": "0",
+              "padding": "1rem",
+              "color": "#fff",
+              "z-index": "2",
+              "&:before": {
+                "content": "\" \"",
+                "width": "100%",
+                "height": "100%",
+                "top": "0",
+                "left": "0",
+                "z-index": "-1",
+                "position": "absolute",
+                "background": "@overlayColor !important",
+                "opacity": "@overlayOpacity",
+                "-webkit-transition": "0.2s background ease-in-out",
+                "transition": "0.2s background ease-in-out",
+                "& when (@gradOverlay)": {
+                  "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              },
-              "authorName": "Bv; Michelangelo, Raphael Coxi, El Greco,Tintoretto, Pontormo, Hans Von Aachen, Otto Van Veen ...",
-              "authorBio": "User"
+              }
             },
-            {
-              "text": "Ook de Cobra beweging bracht veel invloed mee omdat zij ook naiëve, kindertekeningen maakten met een gruwelijk kantje.",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Bv; Corneille, Lucebert, Jan Cox, Contant Nieuwenhuys ...",
-              "authorBio": "User"
-            },
-            {
-              "text": "<p>Met het impressionisme en het expressionisme kan men dan weer de realiteit overstijgen en de zintuigelijke of/en gevoelswereld binnen treden. Dat is belangrijk om bij een verhaal het gevoel en de ervaring over te brengen.</p>",
-              "media": {
-                "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true
-                }
-              },
-              "authorName": "Bv; Monet, Manet, Renoir, Van Gogh, Matisse, Degas,Cézanne, Camille Pissarro/Kirchner,Edward Munch, Lucian Freud, Modigliani, Franz Marc, Egon Schiele ...<br><br>",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials4-g",
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "showImages": false,
-            "showName": true,
-            "showBio": false,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/womenpartfinal-2000x1329.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.6"
-          },
-          "title": "Invloeden",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_styles": {
-            "H2": {
-              "text-align": "right",
-              "font-size": "24px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "text-align": "center",
-              "font-size": "16px",
-              "color": "#ffffff",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "B": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "18px"
-            },
-            "SPAN": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#fffdfd",
-              "text-align": "left",
-              "font-size": "18px"
+            ".mbr-gallery-item > div > span": {
+              "color": "#cccccc"
             }
           },
+          "_name": "gallery1",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Volle breedte\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Overlay met kleurovergang\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay kleur 1\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay kleur 2\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" inline>\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#efefef\">\n\n        <input type=\"gallery\" title=\"Galerij\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
+          "_cid": "r9nUA4FhkJ",
+          "_anchor": "gallery1-5",
+          "_protectedParams": [
+            "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
+            "gallery"
+          ],
+          "_global": false,
+          "_once": false,
           "_params": {
-            "autoplay": false,
-            "fullScreen": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "showBullets": false,
-            "bgColor": "#f7da64",
-            "timeout": 5,
-            "slides": [
+            "text_all": "All",
+            "gallery__filtersTextStyle": "display-7",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
+            "gallery": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/lekkerekut-2000x1200.png",
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vrouw naar waarneming, repetieve samenstelling 2018<br>olieverf op doek",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp; Waarneming<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Model repetitie \n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Olieverf op doek\n<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 219 op 39 cm&nbsp;</b><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/houtskool-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "",
-                "showText": true,
-                "text": "<b><br></b><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b><br><br><br><br><br><br><b>&nbsp; Het laatste oordeel</b><br><b>&nbsp; Naar werk van Raphael Coxi</b><br><b>&nbsp; Houtskool op papier - 2017</b><br><b>&nbsp; 90 op 40 cm&nbsp;</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/kira-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "",
-                "showText": true,
-                "text": "<p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><br><b><br></b></p><br><p><b>&nbsp; &nbsp; &nbsp; Verdwijnen in de natuur<br>&nbsp; &nbsp; &nbsp; Olieverf op bedrukte poster<br></b><b>&nbsp; &nbsp; &nbsp; 197 op 138 cm</b></p>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/vrouw-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b><br><b><br></b><br><b>Waarneming vrouw naar model</b><br><b>Olieverf op doek - 2018 </b><b><br>53 op 62 cm</b><br><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/alle-juiste-afbeeldingformaten-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Bloedkoeien, 2016<br>Waarneming naar koeien in de weide.<br>Rood door de dubbele bodem. De koeien zijn blij maar rauwen om het lot van hun soortgenoten in de vlees en zuivelindustrie",
-                "showText": true,
-                "text": "<b><br></b><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Waarneming naar koeien</b><br><b>Rood door dubbele bodem</b><br><b>Deze koeien zijn blij maar rouwen om het lot van hun </b><br><b>soortgenoten in de vlees en zuivel industrie</b><br><b>A3 formaat, bloedkoeien - 2016</b><br><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/schaapjes-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "",
-                "showText": true,
-                "text": "&nbsp;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; <br><br>&nbsp; &nbsp; &nbsp; <br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Waarneming naar schapen<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aquarel op A3 papier - 2016&nbsp;</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/koetje-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>Koe en hond<br>Olieverf op doek - 2017<br>30 op 20 cm</b><br><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/steffie-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Vernieling, dieren ontrekken uit de natuur,nalatigheid,mishandelin,beroving van de vrijheid<br>olieverf op papier<br><br>",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><br><b><br></b><br><b>Vernieling, d</b><b>ieren worden berooft van hun vrijheid en dat wordt hun ondergang</b><br><b>Olieverf op papier - 2017</b><br><b>350 op 128,5 cm</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/circus-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; Cirkus olieverf op doek. <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Omkering, mens word &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;bespeeld en dieren kijken toe<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ,&nbsp;olieverf op doek 2017",
-                "showText": true,
-                "text": "<b><br></b><br><b><br></b><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Het circus</b><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;De dieren kijken vol vreugde toe hoe de mensen mishandeld worden<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Olieverf op doek - 2017<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 109 op 104 cm</b><br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/grot-2000x1200.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "<br><br>",
-                "showText": true,
-                "text": "<br><br><br><br><br><br><br><br><b><br></b><b>De grot </b><b><br>Olieverf op doek - 2017<br>82 op 46 cm</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#000000"
+                "thumb": "@PROJECT_PATH@/assets/images/grot-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "De Grot 82/46cm 2017 olieverf op doek<br><br>",
+                "active": false
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/only-humans-2000x1200.png",
+                "tags": "Sympathieke",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Wereld zonder dieren. Mensen maken enkel elkaar kapot. Op de manieren hoe ze dat met dieren doen olieverf op doek",
-                "showText": true,
-                "text": "<br><b><span style=\"font-size: 1.5rem; line-height: 1.5; font-style: normal;\"><br></span></b><br><br><br><br><br><br><br><br><br><br><br><br><br><b><br></b><br><b><br></b><br><b>Wereld zonder dieren<br>Mensen maken elkaar kapot</b><br><b>Op dezelfde manier als ze met dieren doen<br>Olieverf op doek - 2017<br>227 op 124 cm</b>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/houtskool-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/houtskool-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Het Laatste Oordeel 90/40cm 2017 houtskool op papier<br>",
+                "active": false
+              },
+              {
+                "tags": "Creatieve",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kira-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/kira-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Verdwijnen in de natuur 197/138cm 2017 olieverf op plastieke poster",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/koetje-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/koetje-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Koe en hond 30/20cm 2017 olieverf op doek",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/lekkerekut-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/lekkerekut-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Model repetitie 29/39cm 2017 olieverf op doek",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/steffie-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/steffie-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "De ondergang 350/129cm 2017 olieverf op papier",
+                "active": true
+              },
+              {
+                "tags": "Sympathieke",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/only-humans-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/only-humans-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Wereld zonder dieren. 227/124cm 2017 olieverf op papier",
+                "active": false
+              },
+              {
+                "tags": "Bewegende",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/circus-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/circus-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Het circus 109/104cm 2017 olieverf op doek<br>",
+                "active": false
+              },
+              {
+                "tags": "Geweldige",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/alle-juiste-afbeeldingformaten-2000x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/alle-juiste-afbeeldingformaten-2000x1200-800x480.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Bloedkoeien A3 2016 inkt op papier",
+                "active": false
               }
             ]
-          },
-          "_anchor": "slider3-6",
-          "articleLayout": false
+          }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
           "_styles": {
-            ".list-group-text": {
-              "color": "#f7da64"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
             },
-            "P": {
-              "color": "#f7da64"
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             },
-            ".list-group-text P": {
-              "color": "#c0a375"
-            }
-          },
-          "_anchor": "contacts3-e",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b0680",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pict0051-265x398.jpg",
-              "class": "card-img-top",
-              "width": 265,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "H2": {
+              "color": "#ffffff"
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "linkInNewWindow": false,
-              "name": "sites",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#f7da64"
-            }
-          },
-          "text1": "Hier vind je meer contactinformatie, voor verdere vragen of voor meer schilderijen bekijk instagram.",
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "redo",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0
-            }
-          },
-          "text2": "<p>mailen:&nbsp;<a href=\"mailto:arinrasschaert@hotmail.com\">arinrasschaert@hotmail.com</a></p>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "redo",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": 0
-            }
-          },
-          "text3": "<p><a href=\"https://www.instagram.com/pindaprut/\" target=\"_blank\">instagram: pindaprut</a></p>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont-company-contacts3",
-              "linkInNewWindow": false,
-              "name": "redo",
-              "family": "MobiriseIcons",
-              "active": true,
-              "size": "1",
+            "H3": {
               "color": "#ffffff"
             }
           },
-          "text4": "",
-          "title1": "",
-          "text5": "",
-          "text6": "<br><br><br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "arinrasschaert@hotmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contacteer me</a>"
+          "_name": "info3",
+          "_customHTML": "<section class=\"mbr-section info3\" group=\"Info\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Toon titel\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Toon ondertitel\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Toon knoppen\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"@PROJECT_PATH@/assets/images/img-6397-2000x1500.jpg\" selected>\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#7671fe\">\n            <input type=\"video\" title=\"Achtergrondvideo\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"media-container-column title col-12 col-md-10\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">Thematiek van de beelden</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-left mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">De thematiek draait vooral rond relatie mens, dier en de natuur. De relaties worden dan 'omgedraaid' en de mens wordt het slachtoffer van de dieren of van hun eigen soortgenoten (kannibalen). De mensen komen op alle mogelijke manieren aan hun einde. Geïnspireerd op hoe bepaalde mensen zich gedragen tegenover dieren en mensen. De dieren lijden niet op haar schilderijen, daardoor krijgen zij meestal een goddelijke positie in de wolken of als toeschouwer. Ze wil dat de mensen meer inzicht krijgen in het leed dat ze (on)rechtstreeks veroorzaken.\n<div>Meestal worden zulke beelden liever verborgen, daardoor vermomt ze ze met vrolijke kleuren. Het verbergen maakt het ook draaglijk om zulke gruwelijke dingen te schilderen. Er wordt een afstand gecreëerd, het lijkt wel een andere wereld. Door de onrealistische figuren en werelden krijgen ze een industrieel karakter, de figuurtjes worden houterig en lijken te verdwijnen in de massa. Het werk is zeer figuratief en abstraheert sommige vormen waardoor het enkel om de essentie draait. Het prikkelt om te zien wat er verder gebeurt. Daarnaast zijn er ook schilderijen van dieren in de natuur, om al het leed te verzachten en te tonen dat het anders kan. &nbsp;</div></h3>\n                <p class=\"mbr-text align-left mbr-white mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline></p>\n                <div class=\"mbr-section-btn align-left py-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEER MEER</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r9oq5B6N4w",
+          "_anchor": "info3-g",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#f7da64",
-              "text-align": "center",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "font-size": "46px"
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             },
-            ".mbr-section-lead": {
-              "text-align": "center",
-              "font-size": "20px",
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
-              "color": "#f7da64"
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "-webkit-flex",
+                "flex-wrap": "wrap",
+                "justify-content": "flex-end",
+                "-webkit-justify-content": "flex-end",
+                "-webkit-flex-wrap": "wrap",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "justify-content": "center",
+                  "-webkit-justify-content": "center"
+                }
+              }
+            },
+            "P": {
+              "color": "#ff3b33"
             }
           },
-          "_anchor": "header1-h",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/schilderijvrouw-960x590.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2b0680",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Toon Copyright\" name=\"showCopyright\">\n        <select title=\"Pictogrammen\" name=\"iconsCount\">\n            <option value=\"0\" selected>0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Nadruk effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#efefef\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    \n                        <img src=\"@PROJECT_PATH@/assets/images/circus-256x154.png\" alt=\"Mobirise\" title>\n                    \n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\"></h5>\n                <p class=\"mbr-text\"></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\">\n                    Contact</h5>\n                <p class=\"mbr-text\">\n                    Email: arinrasschaert@hotmail.com&nbsp;<br>Telefoon: +32476828138&nbsp;<br>Instagram:&nbsp;<a href=\"https://www.instagram.com/pindaprut/?hl=af\">pindaprut</a></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <h5 class=\"pb-3\"></h5>\n                <p class=\"mbr-text\"></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\"></p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://twitter.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-twitter socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-facebook socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r9o2xoslIF",
+          "_anchor": "footer1-c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-figure": {
+              "margin": "0 auto",
+              "width": "100%",
+              "display": "-webkit-flex",
+              "justify-content": "center",
+              "-webkit-justify-content": "center",
+              "img": {
+                "height": "100%",
+                "margin": "0 auto"
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".mbr-figure": {
+                "img": {
+                  "width": "100% !important"
+                }
+              }
+            },
+            ".mbr-text, .mbr-section-btn B": {
+              "color": "#efefef"
+            },
+            "H1": {
+              "color": "#efefef"
+            }
           },
-          "title": "Arin Rasschaert",
-          "text": "Werd geboren op 28 September 1995 in Belgie. Zij is een kunstschilder.<br><br>Biografie<br><br>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen &nbsp;maar wel complexer geworden.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#header1-a\" data-toolbar=\"-mbrBtnMove\">thematiek</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#slider3-6\" data-toolbar=\"-mbrBtnMove\">portfolio</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#contacts3-e\" data-toolbar=\"-mbrBtnMove\">contact<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html#testimonials4-g\" data-toolbar=\"-mbrBtnMove\">invloeden<br></a>    "
+          "_name": "header4",
+          "_customHTML": "<section class=\"header4\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Schermvullend\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Toon titel\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Toon ondertitel\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Toon tekst\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Toon knoppen\" name=\"showButtons\">\n        <input type=\"range\" inline title=\"Media formaat\" name=\"mediaSize\" min=\"10\" max=\"100\" step=\"5\" value=\"60\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Achtergrondafbeelding\" value=\"@PROJECT_PATH@/assets/images/img-6397-2000x1500.jpg\" selected parallax>\n            <input type=\"color\" title=\"Achtergrondkleur\" value=\"#5c698e\">\n            <input type=\"video\" title=\"Achtergrondvideo\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Dekkleur\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Doorschijnendheid\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"media-content col-md-10\">\n                <h1 class=\"mbr-section-title align-center mbr-white pb-3 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Arin Rasschaert Kunstschilder</h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Knappe websites voor mobiel\n                </h3>\n                <div class=\"mbr-text align-center mbr-white pb-3\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text, .mbr-section-btn\"><b>Op 14 jarige leeftijd besloot ze om te leren schilderen en tekenen in Aalst. Gebeten door het schilderen wou ze haar werk verbeteren. De werken begonnen te veranderen maar ze hadden nog steeds dat naïeve karakter. Toen vertrok ze naar Brussel en daar kwamen er nieuwe invloeden. Dat zorgde voor een heropleving in haar werk waardoor ze uiteindelijk naar de hogeschool in Gent verder ging. En de 'naïeve' aard in het schilderen is eigenlijk nooit verdwenen  maar wel complexer geworden</b></p>\n                </div>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LEER MEER</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\" data-app-placeholder=\"Type Text\">LIVE DEMO</a></div>\n            </div>\n            <div class=\"mbr-figure pt-5\">\n                <img src=\"@PROJECT_PATH@/assets/images/alle-juiste-afbeeldingformaten-1368x821.png\" alt=\"Mobirise\" mbr-style=\"{'width': mediaSize + '%'}\" title>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r9p33F9Uoe",
+          "_anchor": "header4-h",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#ff3b33"
+            },
+            ".mbr-text P": {
+              "color": "#ff3b33"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>Invloeden</b></p><p><b>Het streven naar manierisme op een abstracte modernistische manier zorgt voor een veelheid, drukte en een bepaalde gewrongenheid in de werken. Het zijn telkens verhalen of uitbeeldingen van emoties. Daardoor wordt er geen rekening gehouden met perspectief of realisme. Het verhaal is primair.</b></p><p><b><br></b></p><p><b><br></b></p><p><b><br></b></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     </p><p><b>Ook de Cobra beweging met zijn naieve stijl en gruwelijke bijna kindertekeningen<span style=\"font-size: 1rem;\">. En het expressionisme om de binnenste emoties naar buiten te halen en een beetje impressionisme om de schoonheid van de natuur over te brengen. Trachtend om een verborgen realiteit te tonen, namelijk die van de zintuigen.</span></b></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "r9p3eP1vRb",
+          "_anchor": "content3-j",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
         }
       ]
     }
