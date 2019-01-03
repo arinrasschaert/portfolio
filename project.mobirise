@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone-clone-clone",
-    "currentPage": ".html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -553,11 +553,11 @@
         }
       ]
     },
-    ".html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "UA-110309811-1\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
