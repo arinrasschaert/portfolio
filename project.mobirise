@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site-clone-clone-clone",
-    "currentPage": "home.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -553,7 +553,7 @@
         }
       ]
     },
-    "home.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Home",
