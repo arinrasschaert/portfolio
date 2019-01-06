@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 104,
+    "uniqCompNum": 111,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -48,7 +48,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -879,11 +879,11 @@
     "page1.html": {
       "settings": {
         "title": "Page 6 contact",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110309811-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-110309811-1');\n</script>\n\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1390,11 +1390,11 @@
     "page2.html": {
       "settings": {
         "title": "Page 2 beginafbeelding",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1860,11 +1860,11 @@
     "page3.html": {
       "settings": {
         "title": "Page 3 portfolio",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2468,11 +2468,11 @@
     "page4.html": {
       "settings": {
         "title": "Page 4 invloeden",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2914,11 +2914,11 @@
     "page5.html": {
       "settings": {
         "title": "Page 5 bilbliografie",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3385,11 +3385,11 @@
     "page6.html": {
       "settings": {
         "title": "Page 7 thematiek",
-        "meta_descr": "UA-110309811-1\n",
+        "meta_descr": "\n",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
