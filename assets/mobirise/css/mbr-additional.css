@@ -4397,10 +4397,14 @@ body {
 }
 .cid-r9nWMjHNT7 DIV {
   text-align: left;
+  color: #232323;
+}
+.cid-r9nWMjHNT7 I {
+  color: #232323;
 }
 .cid-r9nUA4FhkJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-r9nUA4FhkJ .mbr-slider .carousel-control {
@@ -4424,17 +4428,17 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #7f1933;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #7f1933, #232323) !important;
 }
 .cid-r9nUA4FhkJ .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
 .cid-r9nUA4FhkJ .mbr-gallery-item > div:hover:before {
-  opacity: 0.5 !important;
+  opacity: 0.2 !important;
 }
 .cid-r9nUA4FhkJ .mbr-gallery-title {
   font-size: .9em;
@@ -4454,14 +4458,14 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  opacity: 0.5;
+  background: #7f1933 !important;
+  opacity: 0.2;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #7f1933, #232323) !important;
 }
 .cid-r9nUA4FhkJ .mbr-gallery-item > div > span {
-  color: #cccccc;
+  color: #ffffff;
 }
 .cid-r9oq5B6N4w {
   padding-top: 120px;
